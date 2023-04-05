@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PlainBlack';
+    src: url('PlainBlack-Normal.eot');
+    src: url('PlainBlack-Normal.eot?#iefix') format('embedded-opentype'),
+        url('PlainBlack-Normal.woff2') format('woff2'),
+        url('PlainBlack-Normal.woff') format('woff'),
+        url('PlainBlack-Normal.ttf') format('truetype'),
+        url('PlainBlack-Normal.svg#PlainBlack-Normal') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
